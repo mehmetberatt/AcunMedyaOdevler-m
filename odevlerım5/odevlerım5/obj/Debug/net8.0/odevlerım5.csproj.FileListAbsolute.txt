@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.AssemblyInfo.cs
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\bin\Debug\net8.0\odevlerım5.exe
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\bin\Debug\net8.0\odevlerım5.deps.json
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\bin\Debug\net8.0\odevlerım5.runtimeconfig.json
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\bin\Debug\net8.0\odevlerım5.dll
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\bin\Debug\net8.0\odevlerım5.pdb
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.dll
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\refint\odevlerım5.dll
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.pdb
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\odevlerım5.genruntimeconfig.cache
+C:\Users\mehme\source\repos\odevlerım5\odevlerım5\obj\Debug\net8.0\ref\odevlerım5.dll
