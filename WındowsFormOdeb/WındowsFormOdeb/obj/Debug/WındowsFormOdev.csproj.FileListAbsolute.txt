@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdev.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdeb.Properties.Resources.resources
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdeb.UI.PaymentForm.resources
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdev.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdev.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\bin\Debug\WındowsFormOdeb.exe.config
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\bin\Debug\WındowsFormOdeb.exe
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\bin\Debug\WındowsFormOdeb.pdb
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdeb.exe
+C:\Users\mehme\source\repos\WındowsFormOdeb\WındowsFormOdeb\obj\Debug\WındowsFormOdeb.pdb
